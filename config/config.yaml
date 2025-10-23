@@ -1,0 +1,11 @@
+# ==========================================================
+# TAULER DE CONTROL PRINCIPAL DEL PROJECTE (Configuració)
+# ==========================================================
+#
+# Aquest fitxer centralitza TOTS els paràmetres de la simulació.
+# NO posar "números màgics" (ex: alpha = 0.1) dins del codi .py.
+# Posar-los TOTS aquí i carregar-los al 'run_experiment.py'.
+# 
+# Això ens permet canviar variables de l'experiment (com la taxa
+# d'aprenentatge o les recompenses) en UN SOL LLOC.
+#
